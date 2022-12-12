@@ -1,3 +1,4 @@
+przywitaj sie
 wlacz koparke
 podjedz koparka
 dopoki wielkosc dolu jest mniejsza od 2m:
