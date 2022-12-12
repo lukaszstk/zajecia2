@@ -6,4 +6,5 @@ dopoki wielkosc dolu jest mniejsza od podanej oczekiwanej glebosci dolu:
   poglebiaj dol
 odjedz koparka
 wylacz koparke
+oczysc elementy
 powiedz papa
