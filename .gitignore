@@ -1,0 +1,7 @@
+# Pliki srodowiskowe
+.env
+.hasla
+
+# Pliki z danymi
+*.csv
+
