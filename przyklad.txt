@@ -1,6 +1,7 @@
 wlacz koparke
 podjedz koparka
-dopoki wielkosc dolu jest mniejsza od 2m:
+pobierz oczekiwana glebokosc dolu
+dopoki wielkosc dolu jest mniejsza od podanej oczekiwanej glebosci dolu:
   poglebiaj dol
 odjedz koparka
 wylacz koparke
